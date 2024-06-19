@@ -5,5 +5,5 @@ Dans le cadre de ma formation au module d'intégration avec la 3W Academy, j'ai 
 Language utilisé : HTML et CSS
 
 Liens utiles : 
-Slick pour les carrousel :  https://kenwheeler.github.io/slick/
-Docs HTML & CSS : https://developer.mozilla.org/fr/
+- Slick pour les carrousel :  https://kenwheeler.github.io/slick/
+- Docs HTML & CSS : https://developer.mozilla.org/fr/
